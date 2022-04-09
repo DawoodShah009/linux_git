@@ -1,0 +1,30 @@
+
+Hello, how are you!
+Just familiarizing myself with the vim                                                                                       
+Now trying to exit the vim after saving the content.
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+~                                                                                       
+-- INSERT --                                                          2,20          All
